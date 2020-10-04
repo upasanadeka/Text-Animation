@@ -1,5 +1,6 @@
 # Text-Animation
 Hacktoberfest 2020 is here! Start learning and contributing to Great Open Source Projects.
+
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest 2020?
