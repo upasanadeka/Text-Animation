@@ -45,7 +45,7 @@ Example: <b>\- Upasana Deka, Web Developer, Programming Languages - (C, C++, Pyt
 5. Wait patiently for your PR to get reviewed by the maintainer.
 </b>
 
-Read [README.md](https://github.com/upasanadeka/Text-Animation/README.md) to not get flagged as spam or invalid.
+Read [COC.md](https://github.com/upasanadeka/Text-Animation/COC.md) to not get flagged as spam or invalid.
 
 # Contributors :heart:
 -  Upasana Deka, Web Developer, Programming Languages - (C, C++, Python, JS)
