@@ -2,6 +2,11 @@
 Hacktoberfest 2020 is here! Start learning and contributing to Great Open Source Projects.
 
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<p>
+  <a href="https://github.com/upasanadeka/Text-Animation">
+    <img alt="Version" src="https://img.shields.io/github/hacktoberfest/2020/upasanadeka/Text-Animation?color=blue&style=for-the-badge">
+  </a>
+<p>
 
 ## What is Hacktoberfest 2020?
 
@@ -56,4 +61,10 @@ Read [COC.md](https://github.com/upasanadeka/Text-Animation/blob/master/COC.md) 
 (Reference - https://github.com/swapnil-tiwari/DigitalOceanHacktoberFest2019)
 
 
-#Contributes
+## Author
+
+👩🏻 **Upasana Deka**
+
+* Github: [@upasanadeka](https://github.com/upasanadeka)
+* Youtube: [Upasana Deka](https://youtube.com/upasanadeka)
+* Instagram: [@uppasings](https://instagram.com/uppasings)
