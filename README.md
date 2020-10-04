@@ -16,8 +16,9 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 - Pull requests can be made in any GitHub-hosted repositories/projects.
 - Sign up anytime between October 1 and October 31.
 
-## Rules 👀
-To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will earn a T-shirt.
+## Participation Rules 👀
+
+To get a shirt, you must make four pull requests (PRs) between October 1–31 in any time zone. Pull requests can be to any public repository on GitHub, not just the ones highlighted. The pull request must contain commits you made yourself. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants can earn a T-shirt.
 
 Read more about [participation details](https://hacktoberfest.digitalocean.com/details).
 
@@ -50,6 +51,7 @@ Example: <b>\- Upasana Deka, Web Developer, Programming Languages - (C, C++, Pyt
 5. Wait patiently for your PR to get reviewed by the maintainer.
 </b>
 
+## Do not spam!
 Read [COC.md](https://github.com/upasanadeka/Text-Animation/blob/master/COC.md) to not get flagged as spam or invalid.
 
 # Contributors :heart:
