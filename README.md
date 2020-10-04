@@ -13,14 +13,14 @@ Hacktoberfest 2020 is here! Start learning and contributing to Great Open Source
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 - Hacktoberfest is open to everyone in our global community!
-- Pull requests can be made in any GitHub-hosted repositories/projects.
+- Pull requests can be made to any public repository on GitHub with label Hacktoberfest.
 - Sign up anytime between October 1 and October 31.
 
 ## Participation Rules 👀
 
-To get a shirt, you must make four pull requests (PRs) between October 1–31 in any time zone. Pull requests can be to any public repository on GitHub, not just the ones highlighted. The pull request must contain commits you made yourself. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants can earn a T-shirt.
+To get a shirt, you must make four pull requests (PRs) between October 1–31 in any time zone. Pull requests can be to any public repository on GitHub with label Hacktoberfest, not just the ones highlighted. The pull request must contain commits you made yourself. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants can earn a T-shirt.
 
-Read more about [participation details](https://hacktoberfest.digitalocean.com/details).
+Read more about [participation details](https://hacktoberfest.digitalocean.com/details). Some guidelines may have been updated. Kindly [check](https://hacktoberfest.digitalocean.com/details) before contributing.
 
 ## First Contribution 🤝🏻
 
