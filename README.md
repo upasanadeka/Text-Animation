@@ -24,8 +24,10 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 1. [Star and Fork this repository](https://help.github.com/articles/fork-a-repo/).
 
-2. Do some changes on this [Text Animation webpage](https://upasanadeka.github.io/Text-Animation/) using HTML/CSS/JS. 
+2. Do some changes on this [Text Animation webpage](https://upasanadeka.github.io/Text-Animation/) using HTML/CSS/JS.
+
 For starters,
+
 - You can add a location input and display the location of the user
 - You can add a button that takes the user to the Hacktoberfest 2020 website
 - You can make this a responsive website.
