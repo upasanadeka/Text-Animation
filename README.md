@@ -32,7 +32,7 @@ For starters,
 - You can add a button that takes the user to the Hacktoberfest 2020 website
 - You can make this a responsive website.
 
-3. Edit this CONTRIBUTING.md file & append your information at the bottom of this file as follows:
+3. Edit this README.md file & append your information at the bottom of this file as follows:
 
 - Name, Profession , Programming Languages - (like cpp, c , python)
 
