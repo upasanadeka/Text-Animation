@@ -2,10 +2,9 @@
 Text Animation is a repository that currently includes a webpage that has a "Developer" text that appears on screen, animated using HTML, CS & JS.
 
 This is what it currently looks like:
-<p>
-  <img src="https://github.com/upasanadeka/Text-Animation/blob/master/Hnet.com-image.gif" width=50% height=40%>
+<p align="center">
+  <a href="https://upasanadeka.github.io/Text-Animation/"><img src="https://github.com/upasanadeka/Text-Animation/blob/master/Hnet.com-image.gif" alt="Text Animation Webpage" width=50% height=40%></a>
 </p>
-You can also visit the GitHub page of this repo [here](https://upasanadeka.github.io/Text-Animation/)
 
 #### Everyone is welcomed to contribute here :)) 
 #### The PR's here will count towards Hacktoberfest 2020.
