@@ -57,6 +57,7 @@ Read [COC.md](https://github.com/upasanadeka/Text-Animation/blob/master/COC.md) 
 # Contributors :heart:
 -  Upasana Deka, Web Developer, Programming Languages - (C, C++, Python, JS)
 -  Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, Python)
+-  Shivansh Goel, Android Developer, Programming Languages - (C, Java, Python)
 
 # Happy October | Happy Hacking :sunglasses:
 
