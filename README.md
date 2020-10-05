@@ -3,7 +3,7 @@ Text Animation is a repository that currently includes a webpage that has a "Dev
 
 This is what it currently looks like:
 <p align="center">
-  <a href="https://upasanadeka.github.io/Text-Animation/"><img src="https://github.com/upasanadeka/Text-Animation/blob/master/Hnet.com-image.gif" alt="Text Animation Webpage" width=50% height=40%></a>
+  <a href="https://upasanadeka.github.io/Text-Animation/" target="_blank"><img src="https://github.com/upasanadeka/Text-Animation/blob/master/Hnet.com-image.gif" alt="Text Animation Webpage" width=50% height=40%></a>
 </p>
 
 #### Everyone is welcomed to contribute here :)) 
