@@ -52,7 +52,7 @@ Example: <b>\- Upasana Deka, Web Developer, Programming Languages - (C, C++, Pyt
 </b>
 
 ## Do not spam!
-Read [COC.md](https://github.com/upasanadeka/Text-Animation/blob/master/COC.md) to not get flagged as spam or invalid.
+Read [CodeOfConduct.md](https://github.com/upasanadeka/Text-Animation/blob/master/CodeOfConduct.md) to not get flagged as spam or invalid.
 
 # Contributors :heart:
 -  Upasana Deka, Web Developer, Programming Languages - (C, C++, Python, JS)
