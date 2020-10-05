@@ -1,5 +1,18 @@
 # Text-Animation
-Hacktoberfest 2020 is here! Start learning and contributing to Great Open Source Projects.
+Text Animation is a repository that currently includes a webpage that has a "Developer" text that appears on screen, animated using HTML, CS & JS.
+
+This is what it currently looks like:
+<p>
+  <img src="https://github.com/upasanadeka/Text-Animation/blob/master/Hnet.com-image.gif" width=50% height=40%>
+</p>
+You can also visit the GitHub page of this repo [here](https://upasanadeka.github.io/Text-Animation/)
+
+#### Everyone is welcomed to contribute here :)) 
+#### The PR's here will count towards Hacktoberfest 2020.
+</br>
+
+### Hacktoberfest 2020 is here! Start learning and contributing to Great Open Source Projects.
+</br>
 
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <p>
@@ -52,7 +65,7 @@ Example: <b>\- Upasana Deka, Web Developer, Programming Languages - (C, C++, Pyt
 </b>
 
 ## Do not spam!
-Read [CodeOfConduct.md](https://github.com/upasanadeka/Text-Animation/blob/master/CodeOfConduct.md) to not get flagged as spam or invalid.
+Read [Code of Conduct](https://github.com/upasanadeka/Text-Animation/blob/master/CodeOfConduct.md) to not get flagged as spam or invalid.
 
 # Contributors :heart:
 -  Upasana Deka, Web Developer, Programming Languages - (C, C++, Python, JS)
