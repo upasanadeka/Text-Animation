@@ -9,3 +9,7 @@ battstatus()
 for(i = 0; i<logo.length; i++) {
     console.log(`Letter ${i} is ${logo[i].getTotalLength()}`);
 }
+         setTimeout(function(){
+            window.location.href = 'file:///C:/Users/goels/Desktop/Text-Animation/hacktober.html';
+         }, 5000);
+     
