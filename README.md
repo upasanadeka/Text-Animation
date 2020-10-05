@@ -64,7 +64,7 @@ Read [COC.md](https://github.com/upasanadeka/Text-Animation/blob/master/COC.md) 
 (Reference - https://github.com/swapnil-tiwari/DigitalOceanHacktoberFest2019)
 
 
-## Author
+## Authoress ;)
 
 👩🏻 **Upasana Deka**
 
