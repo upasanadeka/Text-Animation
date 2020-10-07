@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <svg id="logo" width="748" height="104" viewBox="0 0 748 104" stroke="none" stroke-width="5" xmlns="http://www.w3.org/2000/svg">
+    <svg id="logo" class="hover-this" width="748" height="104" viewBox="0 0 748 104" stroke="none" stroke-width="5" xmlns="http://www.w3.org/2000/svg">
       <path d="M31.336 1.63198C42.28 1.63198 51.736 3.69598 59.704 7.82398C67.768 11.856 73.912 17.664 78.136 25.248C82.456 32.832 84.616 41.76 84.616 52.032C84.616 62.304 82.456 71.232 78.136 78.816C73.912 86.304 67.768 92.064 59.704 96.096C51.736 100.032 42.28 102 31.336 102H0.0880127V1.63198H31.336ZM31.336 91.2C44.296 91.2 54.184 87.792 61 80.976C67.816 74.064 71.224 64.416 71.224 52.032C71.224 39.552 67.768 29.808 60.856 22.8C54.04 15.792 44.2 12.288 31.336 12.288H13.192V91.2H31.336Z" stroke="white" stroke-width="5" />
       <path d="M115.005 12.288V45.84H151.581V56.64H115.005V91.2H155.901V102H101.901V1.48798H155.901V12.288H115.005Z" stroke="white" stroke-width="5" />
       <path d="M258.673 1.63198L220.801 102H205.681L167.809 1.63198H181.777L213.313 88.176L244.849 1.63198H258.673Z" stroke="white" stroke-width="5" />
@@ -18,6 +18,43 @@
       <path d="M618.723 12.288V45.84H655.299V56.64H618.723V91.2H659.619V102H605.619V1.48798H659.619V12.288H618.723Z" stroke="white" stroke-width="5" />
       <path d="M732.295 102L708.391 60.96H692.551V102H679.447V1.63198H711.847C719.431 1.63198 725.815 2.92798 730.999 5.51998C736.279 8.11198 740.215 11.616 742.807 16.032C745.399 20.448 746.695 25.488 746.695 31.152C746.695 38.064 744.679 44.16 740.647 49.44C736.711 54.72 730.759 58.224 722.791 59.952L747.991 102H732.295ZM692.551 50.448H711.847C718.951 50.448 724.279 48.72 727.831 45.264C731.383 41.712 733.159 37.008 733.159 31.152C733.159 25.2 731.383 20.592 727.831 17.328C724.375 14.064 719.047 12.432 711.847 12.432H692.551V50.448Z" stroke="white" stroke-width="5" />
       </svg>      
-        <script src="app.js"></script>       
+      <div class="cursor"></div>
+
+      <script src="app.js"></script>
+      
+      <script>
+
+        (function () {
+        
+              const link = document.querySelectorAll('.hover-this');
+              const cursor = document.querySelector('.cursor');
+        
+              const animateit = function (e) {
+                    const span = this.querySelector('span');
+                    const { offsetX: x, offsetY: y } = e,
+                    { offsetWidth: width, offsetHeight: height } = this,
+        
+                    move = 25,
+                    xMove = x / width * (move * 2) - move,
+                    yMove = y / height * (move * 2) - move;
+        
+                    span.style.transform = `translate(${xMove}px, ${yMove}px)`;
+        
+                    if (e.type === 'mouseleave') span.style.transform = '';
+              };
+        
+              const editCursor = e => {
+                    const { clientX: x, clientY: y } = e;
+                    cursor.style.left = x + 'px';
+                    cursor.style.top = y + 'px';
+              };
+        
+              link.forEach(b => b.addEventListener('mousemove', animateit));
+              link.forEach(b => b.addEventListener('mouseleave', animateit));
+              window.addEventListener('mousemove', editCursor);
+        
+        })();
+        
+      </script>  
   </body>
 </html>
