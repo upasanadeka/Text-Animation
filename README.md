@@ -48,7 +48,7 @@ For starters,
 
 - You can add a location input and display the location of the user
 - You can add a button that takes the user to the Hacktoberfest 2020 website
-- You can make this a responsive website.
+- You can make this a responsive website
 
 3. Edit this README.md file & append your information at the bottom of this file as follows:
 
