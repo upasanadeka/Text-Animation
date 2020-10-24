@@ -6,7 +6,7 @@
     <title>Text Animation</title>
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
+  <body id="myCanvas">
     <svg
       id="logo"
       class="hover-this"
@@ -63,8 +63,17 @@
         stroke-width="5"
       />
     </svg>
+    
     <div class="cursor"></div>
+    <div style="float: right;">
+      <button onclick = "color_change()">Dark<br>Mode</button>
+    </div>
 
+    <script>
+      function color_change(){
+        document.body.style.background = 'black'; 
+      }
+    </script>
     <script>
       (function () {
         const link = document.querySelectorAll(".hover-this");

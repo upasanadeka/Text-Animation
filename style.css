@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    outline: none;
 }
 body {
     width: 100%;
@@ -158,4 +159,15 @@ body {
 
 #logo path:hover {
     stroke: #000000;
+}
+
+button{
+    height: 40px;
+    width: 50px;
+    border-radius: 10%;
+    margin: 5px;
+    padding: 2px;
+    border: transparent;
+    font-style: italic;
+    font-weight: bolder;
 }

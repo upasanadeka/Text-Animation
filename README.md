@@ -71,6 +71,7 @@ Read [Code of Conduct](https://github.com/upasanadeka/Text-Animation/blob/master
 -  Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, Python)
 -  Shivansh Goel, Android Developer, Programming Languages - (C, Java, Python)
 -  Rajib Aqil Akbar, Web Developer, Programming Languages - (Python, JS)
+-  Swastika Yadav , Front-End Developer, Programming Languages - (C, Python, JavaScript)
 
 # Happy October | Happy Hacking :sunglasses:
 
